@@ -8,7 +8,7 @@ android {
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.chat_application_nemo"
+        applicationId 'com.example.nemo'
         minSdk 24
         targetSdk 33
         versionCode 1
