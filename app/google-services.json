@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1009809684589",
+    "project_id": "nemo-chat-application",
+    "storage_bucket": "nemo-chat-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009809684589:android:9d15d8f70f69888e40a764",
+        "android_client_info": {
+          "package_name": "com.example.chat_application_nemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChiuHuGu5-hx2suE9kYBEiGNzt0SEmnCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
